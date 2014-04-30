@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+#f6f7f7844e0345d4aae99f6af71250a5 version 1398232683631&0.7072494789026678
+
+CACHE:
+resources/audio/background.mp3
+spritesheets/resources-images-ui0.png
+spritesheets/resources-images-coloredspheres0.png
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*

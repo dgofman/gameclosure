@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+#9042425683db4b6ca6f5cea905d78074 version 1398304323425&0.07978767273016274
+
+CACHE:
+resources/sounds/coint.mp3
+resources/sounds/gameover.mp3
+resources/sounds/jump.mp3
+resources/sounds/overworld.mp3
+spritesheets/resources-0.png
+spritesheets/resources-images0.png
+spritesheets/resources-images-mario0.png
+spritesheets/resources-images-enemies0.png
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*
