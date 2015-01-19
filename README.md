@@ -1,18 +1,18 @@
-￼Game Engineer Simulation
-We are looking for exceptional game engineers: you. We’ve designed this simulation to give you an opportunity to impress us.
-Your assignment is simple:
-1. Develop a game using our open source tech in 7 days.
-2. Write a short reflection on the game development process.
-You can submit your work earlier, but if you have extra time, we’d prefer to see a more polished result when the week is over.
+
 Part 1: Make a game!
+
 You should start by downloading and installing our open source HTML5 devkit:
+
 http://docs.gameclosure.com/guide/install.html
+
 Feel free to use any art assets you like. You can pull examples from the devkit, or from sites like http://opengameart.org/.
 Choose one of these two mobile game genres as a starting point for your game:
 ● Bubble Shooter (more details on the next page)
 ● Endless Runner (more details on the next page)
 Have fun and be creative! Focus on the game screen / gameplay. It doesn’t have to be perfectly polished but it should be well designed, bug­free and fun. We’ll be reviewing the code as well as the functionality.
+
 Part 2: Reflection
+
 Write a concise and organized reflection on your process developing the game. Consider discussing:
 ● Did you face any technical challenges while writing the game code? Were there any JavaScript optimizations you found useful while writing the game?
 ● How did you polish the game? What did you add to make the game more visually appealing or to make the gameplay feel right?
