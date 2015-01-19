@@ -1,5 +1,5 @@
 
-Part 1: Make a game!
+Make a game!
 
 You should start by downloading and installing our open source HTML5 devkit:
 
